@@ -1,5 +1,5 @@
 {
-	"name": "jetstyle/yii2-nested-set-behavior",
+	"name": "vstaheev/yii2-nested-set-behavior",
 	"description": "This extension allows you to get functional for nested set trees.",
 	"keywords": ["yii", "extension", "behavior", "nested set"],
 	"homepage": "https://github.com/jetstyle/yii2-nested-set-behavior",
